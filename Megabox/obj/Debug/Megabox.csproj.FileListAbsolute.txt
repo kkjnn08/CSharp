@@ -1,0 +1,67 @@
+D:\Nodejs\프로젝트\C#\Megabox\bin\Debug\Megabox.exe.config
+D:\Nodejs\프로젝트\C#\Megabox\bin\Debug\Megabox.exe
+D:\Nodejs\프로젝트\C#\Megabox\bin\Debug\Megabox.pdb
+D:\Nodejs\프로젝트\C#\Megabox\bin\Debug\FontAwesome.Sharp.dll
+D:\Nodejs\프로젝트\C#\Megabox\obj\Debug\Megabox.csproj.AssemblyReference.cache
+D:\Nodejs\프로젝트\C#\Megabox\obj\Debug\Megabox.csproj.SuggestedBindingRedirects.cache
+D:\Nodejs\프로젝트\C#\Megabox\obj\Debug\Megabox.Properties.Resources.resources
+D:\Nodejs\프로젝트\C#\Megabox\obj\Debug\Megabox.csproj.GenerateResource.cache
+D:\Nodejs\프로젝트\C#\Megabox\obj\Debug\Megabox.csproj.CoreCompileInputs.cache
+D:\Nodejs\프로젝트\C#\Megabox\obj\Debug\Megabox.csproj.CopyComplete
+D:\Nodejs\프로젝트\C#\Megabox\obj\Debug\Megabox.exe
+D:\Nodejs\프로젝트\C#\Megabox\obj\Debug\Megabox.pdb
+D:\Nodejs\프로젝트\C#\Megabox\obj\Debug\Megabox.FormHome.resources
+C:\Users\jiny5\Downloads\C#\Megabox\bin\Debug\Megabox.exe.config
+C:\Users\jiny5\Downloads\C#\Megabox\bin\Debug\Megabox.exe
+C:\Users\jiny5\Downloads\C#\Megabox\bin\Debug\Megabox.pdb
+C:\Users\jiny5\Downloads\C#\Megabox\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\jiny5\Downloads\C#\Megabox\obj\Debug\Megabox.csproj.AssemblyReference.cache
+C:\Users\jiny5\Downloads\C#\Megabox\obj\Debug\Megabox.csproj.SuggestedBindingRedirects.cache
+C:\Users\jiny5\Downloads\C#\Megabox\obj\Debug\Megabox.FormHome.resources
+C:\Users\jiny5\Downloads\C#\Megabox\obj\Debug\Megabox.Properties.Resources.resources
+C:\Users\jiny5\Downloads\C#\Megabox\obj\Debug\Megabox.csproj.GenerateResource.cache
+C:\Users\jiny5\Downloads\C#\Megabox\obj\Debug\Megabox.csproj.CoreCompileInputs.cache
+C:\Users\jiny5\Downloads\C#\Megabox\obj\Debug\Megabox.csproj.CopyComplete
+C:\Users\jiny5\Downloads\C#\Megabox\obj\Debug\Megabox.exe
+C:\Users\jiny5\Downloads\C#\Megabox\obj\Debug\Megabox.pdb
+C:\Users\jiny5\Downloads\C#\Megabox\obj\Debug\Megabox.FormTicket.resources
+C:\Users\jiny5\Downloads\C#\Megabox\obj\Debug\Megabox.FormCinema.resources
+C:\Users\jiny5\Downloads\C#\Megabox\obj\Debug\Megabox.FormEvent.resources
+C:\Users\jiny5\Downloads\C#\Megabox\obj\Debug\Megabox.FormBenefit.resources
+C:\Users\jiny5\Downloads\C#\Megabox\obj\Debug\Megabox.FormStore.resources
+C:\Users\jiny5\OneDrive\바탕 화면\프로젝트\C#\Megabox\bin\Debug\Megabox.exe.config
+C:\Users\jiny5\OneDrive\바탕 화면\프로젝트\C#\Megabox\bin\Debug\Megabox.exe
+C:\Users\jiny5\OneDrive\바탕 화면\프로젝트\C#\Megabox\bin\Debug\Megabox.pdb
+C:\Users\jiny5\OneDrive\바탕 화면\프로젝트\C#\Megabox\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\jiny5\OneDrive\바탕 화면\프로젝트\C#\Megabox\obj\Debug\Megabox.csproj.AssemblyReference.cache
+C:\Users\jiny5\OneDrive\바탕 화면\프로젝트\C#\Megabox\obj\Debug\Megabox.csproj.SuggestedBindingRedirects.cache
+C:\Users\jiny5\OneDrive\바탕 화면\프로젝트\C#\Megabox\obj\Debug\Megabox.FormBenefit.resources
+C:\Users\jiny5\OneDrive\바탕 화면\프로젝트\C#\Megabox\obj\Debug\Megabox.FormCinema.resources
+C:\Users\jiny5\OneDrive\바탕 화면\프로젝트\C#\Megabox\obj\Debug\Megabox.FormEvent.resources
+C:\Users\jiny5\OneDrive\바탕 화면\프로젝트\C#\Megabox\obj\Debug\Megabox.FormHome.resources
+C:\Users\jiny5\OneDrive\바탕 화면\프로젝트\C#\Megabox\obj\Debug\Megabox.FormStore.resources
+C:\Users\jiny5\OneDrive\바탕 화면\프로젝트\C#\Megabox\obj\Debug\Megabox.FormTicket.resources
+C:\Users\jiny5\OneDrive\바탕 화면\프로젝트\C#\Megabox\obj\Debug\Megabox.Properties.Resources.resources
+C:\Users\jiny5\OneDrive\바탕 화면\프로젝트\C#\Megabox\obj\Debug\Megabox.csproj.GenerateResource.cache
+C:\Users\jiny5\OneDrive\바탕 화면\프로젝트\C#\Megabox\obj\Debug\Megabox.csproj.CoreCompileInputs.cache
+C:\Users\jiny5\OneDrive\바탕 화면\프로젝트\C#\Megabox\obj\Debug\Megabox.csproj.CopyComplete
+C:\Users\jiny5\OneDrive\바탕 화면\프로젝트\C#\Megabox\obj\Debug\Megabox.exe
+C:\Users\jiny5\OneDrive\바탕 화면\프로젝트\C#\Megabox\obj\Debug\Megabox.pdb
+C:\Users\KOSTA\Downloads\Megabox-20221031T004741Z-001\Megabox\bin\Debug\Megabox.exe.config
+C:\Users\KOSTA\Downloads\Megabox-20221031T004741Z-001\Megabox\bin\Debug\Megabox.exe
+C:\Users\KOSTA\Downloads\Megabox-20221031T004741Z-001\Megabox\bin\Debug\Megabox.pdb
+C:\Users\KOSTA\Downloads\Megabox-20221031T004741Z-001\Megabox\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\KOSTA\Downloads\Megabox-20221031T004741Z-001\Megabox\obj\Debug\Megabox.csproj.AssemblyReference.cache
+C:\Users\KOSTA\Downloads\Megabox-20221031T004741Z-001\Megabox\obj\Debug\Megabox.csproj.SuggestedBindingRedirects.cache
+C:\Users\KOSTA\Downloads\Megabox-20221031T004741Z-001\Megabox\obj\Debug\Megabox.FormBenefit.resources
+C:\Users\KOSTA\Downloads\Megabox-20221031T004741Z-001\Megabox\obj\Debug\Megabox.FormCinema.resources
+C:\Users\KOSTA\Downloads\Megabox-20221031T004741Z-001\Megabox\obj\Debug\Megabox.FormEvent.resources
+C:\Users\KOSTA\Downloads\Megabox-20221031T004741Z-001\Megabox\obj\Debug\Megabox.FormHome.resources
+C:\Users\KOSTA\Downloads\Megabox-20221031T004741Z-001\Megabox\obj\Debug\Megabox.FormStore.resources
+C:\Users\KOSTA\Downloads\Megabox-20221031T004741Z-001\Megabox\obj\Debug\Megabox.FormTicket.resources
+C:\Users\KOSTA\Downloads\Megabox-20221031T004741Z-001\Megabox\obj\Debug\Megabox.Properties.Resources.resources
+C:\Users\KOSTA\Downloads\Megabox-20221031T004741Z-001\Megabox\obj\Debug\Megabox.csproj.GenerateResource.cache
+C:\Users\KOSTA\Downloads\Megabox-20221031T004741Z-001\Megabox\obj\Debug\Megabox.csproj.CoreCompileInputs.cache
+C:\Users\KOSTA\Downloads\Megabox-20221031T004741Z-001\Megabox\obj\Debug\Megabox.csproj.CopyComplete
+C:\Users\KOSTA\Downloads\Megabox-20221031T004741Z-001\Megabox\obj\Debug\Megabox.exe
+C:\Users\KOSTA\Downloads\Megabox-20221031T004741Z-001\Megabox\obj\Debug\Megabox.pdb
